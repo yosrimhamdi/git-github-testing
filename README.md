@@ -1,2 +1,2 @@
-# test
-testing github pull requests
+# git-github-testing
+experimenting with git and github
